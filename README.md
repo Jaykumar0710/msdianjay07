@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msdianjay07
 - 👀 I’m interested in coading 
 - 🌱 I’m currently learning basic of programming languages
-- 📫 How to reach me @788009430
+- 📫 How to reach me @7888009430
 
 <!---
 msdianjay07/msdianjay07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

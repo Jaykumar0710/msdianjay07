@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msdianjay07
+- 👋 Hi, I’m Jaykumar Gunjawale
 - 👀 I’m interested in coading 
 - 🌱 I’m currently learning basic of programming languages
 - 📫 How to reach me @7888009430
